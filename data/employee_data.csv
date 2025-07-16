@@ -1,0 +1,8 @@
+EmployeeID,Name,Age,Department,Tenure,Salary,PerformanceRating,Attrition
+E001,Amit,34,Sales,3,55000,4,No
+E002,Neha,29,HR,2,48000,3,No
+E003,Ravi,45,IT,10,90000,5,Yes
+E004,Simran,38,Marketing,7,72000,4,No
+E005,Anjali,26,IT,1,40000,2,Yes
+E006,Karan,31,Sales,5,60000,3,No
+E007,Divya,41,Finance,9,80000,5,No
